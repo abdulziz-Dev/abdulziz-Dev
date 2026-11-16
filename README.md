@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi I'm Abdulaziz 👋
 
-<!--
-**abdulziz-Dev/abdulziz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱Planting season
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm not in harvest season yet. I'm planting.
+Learning from zero, building my foundation brick by brick.
+
+
+ ✨ My Journey ✨
+ 
+ Following Abu-Hadhoud Roadmap
+ Currently: Algorithms & Problem Solving - Level 2 -Language: C++ .
+
+
+
+  🔭 What I believe ...
+  while (alive) {
+    learn();
+    }
+    
+
+📫
+- Riyadh, Saudi Arabia . 
+
+  
+  ✨✨ 
